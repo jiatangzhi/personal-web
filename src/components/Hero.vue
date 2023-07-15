@@ -12,7 +12,7 @@
              Based in London, UK. I'm currently seeking new opportunities in front-end development. I'm open to work hybrid or remotely and have flexible hours.
           </p>
           <a href="/#about">
-            <button class="bg-pink-500 px-6 py-2 md:text-lg lg:text-lg hover:bg-pink-600 transition-all md:px-8 md:py-3 xl:text-xl 2xl:text-2xl font-semibold">Discover More</button>
+            <button class="bg-pink-500 px-6 py-2 md:text-lg lg:text-lg hover:bg-pink-700 transition-all md:px-8 md:py-3 xl:text-xl 2xl:text-2xl font-semibold">Discover More</button>
           </a>
         </div>
       </div>
