@@ -10,23 +10,44 @@
       Experiences
     </p>
 
-    <p class="font-semibold text-xl xl:text-2xl hover:text-pink-500 hover:cursor-pointer"><a href="https://ardaworks.id/" target="_blank" rel="noopener noreferrer">Nocxa</a></p>
+    <p class="font-semibold text-xl xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://nocxa.com/" target="_blank" rel="noopener noreferrer">Nocxa</a></p>
     <ol class="relative border-l border-gray-200">
       <li class="mb-10 ml-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
-          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">Septemeber 2020 - Present</time>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">Septemeber 2022 - Present</time>
           <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
-            <h3 class="text-lg font-semibold text-violet-300 xl:text-xl mb-3">Front-end Developer</h3>
-            <ul class="lg:text-lg xl:text-xl">• Designing and developing websites and web apps for clients.</ul>
-            <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-2">
-              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">HTML</button>
-              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">CSS</button>
-              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">JS</button>
-              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Django</button>
-              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Vue.js</button>
-              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">jQuery</button>
-              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Bootstrap</button>
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Front-end Developer</h3>
+            <ul class="lg:text-lg xl:text-xl">• Designed and developed e-commerce websites for clients.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Created and setup Google business profiles.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Increased sales by 300% and increased traffic by 200% on average.</ul>
+            <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">React</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Next.js</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">TypeScript</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Flutter</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Tailwind</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Express</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">MongoDB</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">jQuery</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Node.js</button>
             </div>
+          </div>
+      </li>
+    </ol>
+
+    <p class="font-semibold text-xl 2xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://foundation.mozilla.org/en/youtube/findings/" target="_blank" rel="noopener noreferrer">University of Exeter</a></p>
+    <ol class="relative border-l border-gray-200 z-20">
+      <li class="mb-6 ml-4">
+          <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
+          <time class="mb-1 text-sm font-normal leading-none text-stone-200 xl:text-lg">June 2021 - July 2021</time>
+          <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2">
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Research Assistant for Mozilla YouTube Regrets</h3>
+            <ul class="lg:text-lg xl:text-xl">• Viewed and labelled videos that have been reported (and already approved by content moderator).</ul>
+            <ul class="lg:text-lg xl:text-xl">• Investigated and gathered data on harmful video recommendations by YouTube's algorithm.</ul>
+            <ul class="lg:text-lg xl:text-xl">• The study uncovered major findings, including YouTube recommending content that violated its own policies and had a significant impact on non-English speaking countries, especially with pandemic-related videos.</ul>
+            <div class="flex gap-x-4 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Excel</button>
+             </div>
           </div>
       </li>
     </ol>
