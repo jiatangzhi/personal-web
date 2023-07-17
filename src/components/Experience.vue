@@ -10,23 +10,22 @@
       Experiences
     </p>
 
-    <p class="font-semibold text-xl xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://ardaworks.id/" target="_blank" rel="noopener noreferrer">Nocxa</a></p>
+    <p class="font-semibold text-xl xl:text-2xl hover:text-pink-500 hover:cursor-pointer"><a href="https://ardaworks.id/" target="_blank" rel="noopener noreferrer">Nocxa</a></p>
     <ol class="relative border-l border-gray-200">
       <li class="mb-10 ml-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
-          <time class="text-sm font-normal leading-none text-gray-400 xl:text-lg">Septemeber 2020 - Present</time>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">Septemeber 2020 - Present</time>
           <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
-            <h3 class="text-lg font-semibold text-yellow-500 xl:text-xl mb-3">Front-end Developer</h3>
+            <h3 class="text-lg font-semibold text-violet-300 xl:text-xl mb-3">Front-end Developer</h3>
             <ul class="lg:text-lg xl:text-xl">• Designing and developing websites and web apps for clients.</ul>
-            <h3 class="mt-4 font-semibold text-yellow-500 mb-2">Related Techstacks</h3>
-            <div class="flex gap-x-4 flex-wrap gap-y-2 pb-2">
-              <button class="border px-4 lg:px-6 lg:py-2 transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">HTML</button>
-              <button class="border px-4 lg:px-6 lg:py-2 transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">CSS</button>
-              <button class="border px-4 lg:px-6 lg:py-2 transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">JS</button>
-              <button class="border px-4 lg:px-6 lg:py-2 transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Django</button>
-              <button class="border px-4 lg:px-6 lg:py-2 transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Vue.js</button>
-              <button class="border px-4 lg:px-6 lg:py-2 transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">jQuery</button>
-              <button class="border px-4 lg:px-6 lg:py-2 transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Bootstrap</button>
+            <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-2">
+              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">HTML</button>
+              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">CSS</button>
+              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">JS</button>
+              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Django</button>
+              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Vue.js</button>
+              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">jQuery</button>
+              <button class="border px-4 lg:px-6 lg:py-2 rounded-full transition-colors text-sm border-white hover:border-pink-700 hover:bg-pink-700">Bootstrap</button>
             </div>
           </div>
       </li>

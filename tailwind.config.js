@@ -13,7 +13,7 @@ export default {
         pink: {
           100: "#ffe4e6",
           400: "#fda4af",
-          500: "#f9a8d4",
+          500: "#FF4EC0",
           600: "#818cf8",
           700: "#be185d",
         },

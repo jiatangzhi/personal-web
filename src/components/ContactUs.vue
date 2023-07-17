@@ -25,7 +25,7 @@
           </div>
         </a>
       
-        <button class="mt-4 2xl:mt-16 btn bg-pink-500 hover:bg-pink-600 border-none rounded-none w-full mb-2 lg:text-lg normal-case" @click="downloadResume">Download my resume</button>
+        <button class="mt-4 2xl:mt-16 btn bg-blue-600 hover:bg-blue-500 border-none rounded w-full mb-2 lg:text-lg normal-case" @click="downloadResume">Download my resume</button>
         <div class="divider lg:hidden"></div>
       </div>
 
@@ -54,7 +54,7 @@
           </label>
           <textarea v-model="message" name="message" class="bg-white textarea textarea-bordered h-24" ></textarea>
         </div>
-        <button class="btn btn-primary mt-4 rounded-none w-full mb-2 lg:text-lg normal-case" @click="sendEmail">Send</button>
+        <button class="btn btn-primary mt-4 rounded-full w-full mb-2 lg:text-lg normal-case" @click="sendEmail">Send</button>
       </div>
     </div>
     <img src="/contact/star.svg" alt="star" class="absolute top-0 -right-20 hidden lg:block w-64 -z-0 opacity-30 2xl:w-96 2xl:-right-32">
@@ -109,7 +109,7 @@ export default{
       const link = document.createElement('a');
       link.href = fileURL;
       link.target = '_blank';
-      link.download = 'Jia Xin Tang zhi Resume.pdf';
+      link.download = 'Jia Xin Tang Zhi Resume.pdf';
 
       // Append the link element to the document body
       document.body.appendChild(link);
