@@ -83,12 +83,12 @@ export default{
           return;
         }
 
-        emailjs.send("service_lw4b1fl","template_oxledye",{
+        emailjs.send("service_59goj67","template_oj9r48v",{
           from_email: this.from_email,
           subject: this.subject,
           message: this.message,
           from_name: this.from_name,
-        }, "i-9G_V0XgTCU1VyOA");
+        }, "fekYccY61jeAhd6vT");
 
         this.createAlert("Email sent successfully", "success", 2000);
 
