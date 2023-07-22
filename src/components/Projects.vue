@@ -45,7 +45,7 @@
           <div class="w-52 lg:w-64 xl:w-72 2xl:w-80">
             <p class="lg:text-lg xl:text-xl 2xl:text-2xl text-lg text-purple-700 font-bold mt-2 xl:mt-4 2xl:mt-8">Portfolio</p>
             <p class="text-sm lg:text-lg xl:text-xl text-justify text-purple-500 mt-2">Portfolio Version 1 (2021)</p>
-            <a href="https://www.jxtangzhi.com/" target="_blank">
+            <a href="https://jiatangzhi.github.io/portfolio/" target="_blank">
               <p class="text-sm lg:text-lg xl:text-xl mt-4 text-fuchsia-800 text-start transition-all ease-in hover:underline">View</p>
             </a>
           </div>
