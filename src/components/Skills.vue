@@ -107,6 +107,20 @@ import SkillCard from "../widgets/SkillCard.vue";
         <div class="w-1/2 md:w-1/3 lg:w-1/4">
           <SkillCard
             path="/skills/php_1.png"
+            alt="Numpy"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Pandas"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
             alt="Figma"
             hoverPath="/skills/php_2.png"
           />
