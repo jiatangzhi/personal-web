@@ -90,14 +90,21 @@ import SkillCard from "../widgets/SkillCard.vue";
             hoverPath="/skills/php_2.png"
           />
         </div>
-         <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
+        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
           <SkillCard
             path="/skills/php_1.png"
             alt="Python"
             hoverPath="/skills/php_2.png"
           />
         </div>
-                 <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
+        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="R"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
           <SkillCard
             path="/skills/php_1.png"
             alt="C++"
@@ -118,6 +125,13 @@ import SkillCard from "../widgets/SkillCard.vue";
             hoverPath="/skills/php_2.png"
           />
         </div>
+        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="SQL"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
         <div class="w-1/2 md:w-1/3 lg:w-1/4">
           <SkillCard
             path="/skills/php_1.png"
@@ -129,6 +143,20 @@ import SkillCard from "../widgets/SkillCard.vue";
           <SkillCard
             path="/skills/php_1.png"
             alt="Trello"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Excel"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="AWS"
             hoverPath="/skills/php_2.png"
           />
         </div>
