@@ -9,7 +9,7 @@
             Curiosity, Breakthroughs, and Limitless Ideas
           </p>
           <p class="pt-8 pb-4 md:pr-64 lg:pr-72 xl:pr-96 md:text-lg lg:text-lg md:pt-12 md:pb-10 xl:text-2xl 2xl:pt-22 2xl:pr-[550px] z-20">
-             Based in Paris, France. I'm currently seeking new opportunities in front-end development & data science. I'm open to work hybrid or remotely and have flexible hours.
+            Based in Paris, France, I am actively seeking a 6-month internship in front-end development and data science. I am open to relocation and eager to contribute my skills to a dynamic team while expanding my practical knowledge in these fields.
           </p>
           <a href="/#about">
             <button class="bg-pink-500 px-6 py-2 md:text-lg lg:text-lg hover:bg-pink-700 transition-all md:px-8 md:py-3 xl:text-xl 2xl:text-2xl font-semibold">Discover More</button>
