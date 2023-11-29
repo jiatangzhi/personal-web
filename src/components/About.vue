@@ -8,7 +8,7 @@
     </div>
     <div class="pt-8 text-purple-500 md:w-2/3 md:text-lg lg:text-lg xl:text-2xl bg-white pb-24">
       <p class="text-white hidden lg:block lg:text-purple-500 font-bold lg:text-4xl lg:pb-8 xl:text-5xl 2xl:text-6xl hover-rectangle hover:cursor-pointer overflow-x-hidden">About</p>
-      <p>Exploring my world of turning challenges into new comfort zones! My name is Jia Tang Zhi, and I am a Flutter Developer with a passion for pushing my limits. Over the past 2+ years, I've been learning the ins and outs of web programming with React.</p>
+      <p>Exploring my world of turning challenges into new comfort zones! My name is Jia Tang Zhi, and I am a Web and Mobile Developer with a passion for pushing my limits. Over the past 2+ years, I've been learning the ins and outs of web programming with React.</p>
       <p class="py-4 ">Recently, I have been working as a Front-End Developer, gaining valuable experience and developing my skills after completing my internship at a start-up where I built mobile applications as a Flutter Developer.</p>
       <p>When I'm not coding, you can find me indulging in my love for cooking, working out, and listening to music.</p>
     </div>
