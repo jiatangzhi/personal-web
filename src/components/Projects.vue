@@ -6,7 +6,7 @@
     <img src="/project/star.svg" alt="Star" class="absolute z-30 w-16 bottom-10 right-4 lg:w-24 2xl:bottom-12 2xl:right-56">
     <div class="carousel gap-x-4 lg:gap-x-8 rounded-box mb-10">
       
-      <div class="carousel-item">
+      <!-- <div class="carousel-item">
         <div class="ml-4 text-center flex flex-col">
           <img src="/project/quickbite.png" alt="QuickBite" class="w-52 lg:w-64 xl:w-72 2xl:w-80">
           <div class="w-52 lg:w-64 xl:w-72 2xl:w-80">
@@ -14,7 +14,7 @@
             <p class="text-sm lg:text-lg xl:text-xl text-justify text-purple-500 mt-2">Crafted QuickBite app's captivating frontend UI to showcase our innovative business idea with precision during a high-stakes portfolio competition.</p>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="carousel-item">
         <div class="ml-4 text-center flex flex-col">
           <img src="/project/dictionary.png" alt="Dictionary" class="w-52 lg:w-64 xl:w-72 2xl:w-80">
@@ -63,7 +63,7 @@
           </div>
         </div>
       </div>
-      <div class="carousel-item">
+      <!-- <div class="carousel-item">
         <div class="ml-4 text-center flex flex-col">
           <img src="/project/nightbloom.png" alt="NightBloom" class="w-[575px] lg:w-[700px] xl:w-[800px] 2xl:w-[880px]">
           <div class="w-72 lg:w-[700px] xl:w-[800px] 2xl:w-[880px]">
@@ -74,8 +74,8 @@
             </a>
           </div>
         </div>
-      </div>
-      <div class="carousel-item">
+      </div> -->
+      <!-- <div class="carousel-item">
         <div class="ml-4 text-center flex flex-col">
           <img src="/project/鲜美超市.png" alt="鲜美超市" class="w-[575px] lg:w-[700px] xl:w-[800px] 2xl:w-[880px]">
           <div class="w-72 lg:w-[700px] xl:w-[800px] 2xl:w-[880px]">
@@ -86,7 +86,7 @@
             </a>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="carousel-item">
         <div class="ml-4 text-center flex flex-col">
           <img src="/project/clock.png" alt="React Clock" class="w-[575px] lg:w-[700px] xl:w-[800px] 2xl:w-[880px]">
