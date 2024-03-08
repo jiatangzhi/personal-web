@@ -6,7 +6,7 @@
     <img src="/project/star.svg" alt="Star" class="absolute z-30 w-16 bottom-10 right-4 lg:w-24 2xl:bottom-12 2xl:right-56">
     <div class="carousel gap-x-4 lg:gap-x-8 rounded-box mb-10">
       
-      <!-- <div class="carousel-item">
+      <div class="carousel-item">
         <div class="ml-4 text-center flex flex-col">
           <img src="/project/quickbite.png" alt="QuickBite" class="w-52 lg:w-64 xl:w-72 2xl:w-80">
           <div class="w-52 lg:w-64 xl:w-72 2xl:w-80">
@@ -14,7 +14,7 @@
             <p class="text-sm lg:text-lg xl:text-xl text-justify text-purple-500 mt-2">Crafted QuickBite app's captivating frontend UI to showcase our innovative business idea with precision during a high-stakes portfolio competition.</p>
           </div>
         </div>
-      </div> -->
+      </div>
       <div class="carousel-item">
         <div class="ml-4 text-center flex flex-col">
           <img src="/project/dictionary.png" alt="Dictionary" class="w-52 lg:w-64 xl:w-72 2xl:w-80">
@@ -58,6 +58,18 @@
             <p class="lg:text-lg xl:text-xl 2xl:text-2xl text-lg text-purple-700 font-bold mt-2 xl:mt-4 2xl:mt-8">Travel Agency</p>
             <p class="text-sm lg:text-lg xl:text-xl text-justify text-purple-500 mt-2">It allows easy navigation to guide users. It included Google Maps, Instagram photos, and links to booking websites.</p>
             <a href="https://travel-agency-jiatz.netlify.app/" target="_blank">
+              <p class="text-sm lg:text-lg xl:text-xl mt-4 text-fuchsia-800 text-start transition-all ease-in hover:underline">View</p>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="ml-4 text-center flex flex-col">
+          <img src="/project/nightbloom.png" alt="NightBloom" class="w-[575px] lg:w-[700px] xl:w-[800px] 2xl:w-[880px]">
+          <div class="w-72 lg:w-[700px] xl:w-[800px] 2xl:w-[880px]">
+            <p class="lg:text-lg xl:text-xl 2xl:text-2xl text-lg text-purple-700 font-bold mt-2 xl:mt-4 2xl:mt-8">NightBloom AI</p>
+            <p class="text-sm lg:text-lg xl:text-xl text-justify text-purple-500 mt-2">Search engine dedicated to AI-generated images.</p>
+            <a href="https://nightbloom.ai/" target="_blank">
               <p class="text-sm lg:text-lg xl:text-xl mt-4 text-fuchsia-800 text-start transition-all ease-in hover:underline">View</p>
             </a>
           </div>

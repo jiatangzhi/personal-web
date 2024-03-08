@@ -14,19 +14,19 @@
     <ol class="relative border-l border-gray-200">
       <li class="mb-10 ml-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
-          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">December 2023 - Present</time>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">June 2023 - August 2023</time>
           <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
-            <h3 class="text-lg font-semibold xl:text-xl mb-3">Frontend Developer</h3>
-            <ul class="lg:text-lg xl:text-xl">• Developed the frontend for search engine dedicated to AI-generated images.</ul>
-            <ul class="lg:text-lg xl:text-xl">• Advanced features enabling users to filter, preview, download, and bookmark AI-generated images, catering to diverse preferences in resolution and quality.</ul>
-            <ul class="lg:text-lg xl:text-xl">• Data rendering from REST API.</ul>
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Software Engineer</h3>
+            <ul class="lg:text-lg xl:text-xl">• Assisting in the development of software applications using Next.js / Tailwind / React / Typescript.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Build a REST API needed to serve the new UI.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Querying NoSQL and SQL databases to create backend table.</ul>
             <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
-              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">React.js</button>
+              <!-- <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">React.js</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Next.js</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">MUI</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Framer Motion</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Redux.js</button>
-              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Tailwind</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Tailwind</button> -->
             </div>
           </div>
       </li>
@@ -36,14 +36,14 @@
     <ol class="relative border-l border-gray-200">
       <li class="mb-10 ml-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
-          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">May 2023 - October 2023</time>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">June 2022 - August 2022</time>
           <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
-            <h3 class="text-lg font-semibold xl:text-xl mb-3">Frontend Developer</h3>
-            <ul class="lg:text-lg xl:text-xl">• Designed and developed e-commerce websites for clients.</ul>
-            <ul class="lg:text-lg xl:text-xl">• Created and setup Google business profiles.</ul>
-            <ul class="lg:text-lg xl:text-xl">• Increased sales by 300% and increased traffic by 200% on average.</ul>
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Data Engineer</h3>
+            <ul class="lg:text-lg xl:text-xl">• Build scripts to scrape data and connect to third party app to the data warehouse..</ul>
+            <ul class="lg:text-lg xl:text-xl">• Created and setup Google business profiles for clients.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Ran A/B tests on new features, made UI changes which increased sales by 300%.</ul>
             <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
-              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">React.js</button>
+              <!-- <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">React.js</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Next.js</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">TypeScript</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Flutter</button>
@@ -52,7 +52,7 @@
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">MongoDB</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">jQuery</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Node.js</button>
-              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Git</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Git</button> -->
             </div>
           </div>
       </li>
@@ -62,10 +62,9 @@
     <ol class="relative border-l border-gray-200 z-20">
       <li class="mb-6 ml-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
-          <time class="mb-1 text-sm font-normal leading-none text-stone-200 xl:text-lg">June 2021 - July 2021</time>
+          <time class="mb-1 text-sm font-normal leading-none text-stone-200 xl:text-lg">June 2021 - August 2021</time>
           <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2">
             <h3 class="text-lg font-semibold xl:text-xl mb-3">Research Assistant for Mozilla YouTube Regrets</h3>
-            <ul class="lg:text-lg xl:text-xl">• Viewed and labelled videos that have been reported (and already approved by content moderator).</ul>
             <ul class="lg:text-lg xl:text-xl">• Investigated and gathered data on harmful video recommendations by YouTube's algorithm.</ul>
             <ul class="lg:text-lg xl:text-xl">• The study uncovered major findings, including YouTube recommending content that violated its own policies and had a significant impact on non-English speaking countries, especially with pandemic-related videos.</ul>
             <div class="flex gap-x-4 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
