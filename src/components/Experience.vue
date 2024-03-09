@@ -58,13 +58,13 @@
       </li>
     </ol>
 
-    <p class="font-semibold text-xl 2xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://foundation.mozilla.org/en/youtube/findings/" target="_blank" rel="noopener noreferrer">University of Exeter</a></p>
+    <p class="font-semibold text-xl 2xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://foundation.mozilla.org/en/youtube/findings/" target="_blank" rel="noopener noreferrer">Mozilla</a></p>
     <ol class="relative border-l border-gray-200 z-20">
       <li class="mb-6 ml-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
           <time class="mb-1 text-sm font-normal leading-none text-stone-200 xl:text-lg">June 2021 - August 2021</time>
           <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2">
-            <h3 class="text-lg font-semibold xl:text-xl mb-3">Research Assistant for Mozilla YouTube Regrets</h3>
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Research Assistant</h3>
             <ul class="lg:text-lg xl:text-xl">• Investigated and gathered data on harmful video recommendations by YouTube's algorithm.</ul>
             <ul class="lg:text-lg xl:text-xl">• The study uncovered major findings, including YouTube recommending content that violated its own policies and had a significant impact on non-English speaking countries, especially with pandemic-related videos.</ul>
             <div class="flex gap-x-4 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
