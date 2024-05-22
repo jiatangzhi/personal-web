@@ -41,7 +41,7 @@
             <h3 class="text-lg font-semibold xl:text-xl mb-3">Data Engineer</h3>
             <ul class="lg:text-lg xl:text-xl">• Build scripts to scrape data and connect to third party app to the data warehouse..</ul>
             <ul class="lg:text-lg xl:text-xl">• Created and setup Google business profiles for clients.</ul>
-            <ul class="lg:text-lg xl:text-xl">• Ran A/B tests on new features, made UI changes which increased sales by 300%.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Ran A/B tests on new features, made UI changes which increased sales by 35%.</ul>
             <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
               <!-- <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">React.js</button>
               <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Next.js</button>
