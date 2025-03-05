@@ -26,62 +26,7 @@ import SkillCard from "../widgets/SkillCard.vue";
       </p>
       
       <div class="flex flex-wrap mb-4 xl:mt-2 2xl:mt-6">
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="HTML"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="CSS"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="JavaScript"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="TypeScript"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="React"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Flutter"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Tailwind"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Next"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
+
         <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
           <SkillCard
             path="/skills/php_1.png"
@@ -89,62 +34,7 @@ import SkillCard from "../widgets/SkillCard.vue";
             hoverPath="/skills/php_2.png"
           />
         </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="R"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="C++"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Power BI"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Pandas"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="SQL"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Figma"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Trello"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
-        <div class="w-1/2 md:w-1/3 lg:w-1/4">
-          <SkillCard
-            path="/skills/php_1.png"
-            alt="Excel"
-            hoverPath="/skills/php_2.png"
-          />
-        </div>
+        
         <div class="w-1/2 md:w-1/3 lg:w-1/4">
           <SkillCard
             path="/skills/php_1.png"
@@ -152,10 +42,106 @@ import SkillCard from "../widgets/SkillCard.vue";
             hoverPath="/skills/php_2.png"
           />
         </div>
+
         <div class="w-1/2 md:w-1/3 lg:w-1/4">
           <SkillCard
             path="/skills/php_1.png"
-            alt="Databricks"
+            alt="Data Lakes"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+      
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Apache Spark"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Apache Iceberg"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="ETL/ELT"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+
+        <div class="w-1/2 md:w-1/3 lg:w-1/4 z-20">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="NoSQL/SQL"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="TypeScript"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="React"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Tailwind"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Next"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="JavaScript"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Pandas"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="LLMs"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="NLP"
             hoverPath="/skills/php_2.png"
           />
         </div>
@@ -166,6 +152,15 @@ import SkillCard from "../widgets/SkillCard.vue";
             hoverPath="/skills/php_2.png"
           />
         </div>
+      
+        <div class="w-1/2 md:w-1/3 lg:w-1/4">
+          <SkillCard
+            path="/skills/php_1.png"
+            alt="Databricks"
+            hoverPath="/skills/php_2.png"
+          />
+        </div>
+
       </div>
     </div>
     <img
