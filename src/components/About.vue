@@ -8,9 +8,10 @@
     </div>
     <div class="pt-8 text-purple-500 md:w-2/3 md:text-lg lg:text-lg xl:text-2xl bg-white pb-24">
       <p class="text-white hidden lg:block lg:text-purple-500 font-bold lg:text-4xl lg:pb-8 xl:text-5xl 2xl:text-6xl hover-rectangle hover:cursor-pointer overflow-x-hidden">About</p>
-      <p>Exploring my world of turning challenges into new comfort zones! My name is Jia Tang Zhi, and I am a Web and Mobile Developer with a passion for pushing my limits. Over the past 2+ years, I've been learning the ins and outs of web programming with React.</p>
-      <p class="py-4 ">Recently, I have been working as a Software Engineer, gaining valuable experience and developing my skills after completing my internship at a start-up where I built web applications.</p>
-      <p>When I'm not coding, you can find me indulging in my love for cooking, working out, and listening to music.</p>
+      <p>Hi! I’m Jia, a Data Engineer and AI Enthusiast passionate about building scalable, data-driven solutions. My journey started in web development, where I spent 2+ years mastering React and front-end technologies, but my curiosity led me deeper into Big Data and Machine Learning.</p>
+      <p class="py-4 ">Currently, I design and optimize data pipelines, develop AI-powered retrieval systems, and architect lakehouse solutions, refining my expertise in cloud-native architectures and large-scale data processing.</p>
+      <p>When I’m not working with data, you’ll probably find me indulging in my love for cooking, hitting the gym, or exploring new music—always seeking creativity both in and out of code.</p>
+      <p>Let’s connect and chat about all things data, AI, or even good food recommendations!</p>   
     </div>
     <img src="/about/el-star.svg" alt="Star" class="absolute bottom-0 left-0 w-44 lg:w-52 2xl:w-64">
   </div>
