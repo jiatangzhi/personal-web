@@ -11,6 +11,7 @@
       <p>Hi! I’m Jia, a Data Engineer and AI Enthusiast passionate about building scalable, data-driven solutions. My journey started in web development, where I spent 2+ years mastering React and front-end technologies, but my curiosity led me deeper into Big Data and Machine Learning.</p>
       <p class="py-4 ">Currently, I design and optimize data pipelines, develop AI-powered retrieval systems, and architect lakehouse solutions, refining my expertise in cloud-native architectures and large-scale data processing.</p>
       <p>When I’m not working with data, you’ll probably find me indulging in my love for cooking, hitting the gym, or exploring new music—always seeking creativity both in and out of code.</p>
+      <br></br>
       <p>Let’s connect and chat about all things data, AI, or even good food recommendations!</p>   
     </div>
     <img src="/about/el-star.svg" alt="Star" class="absolute bottom-0 left-0 w-44 lg:w-52 2xl:w-64">
