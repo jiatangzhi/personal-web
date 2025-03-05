@@ -10,6 +10,72 @@
       Experiences
     </p>
 
+    <p class="font-semibold text-xl xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://nightbloom.ai/" target="_blank" rel="noopener noreferrer">IKERLAN</a></p>
+    <ol class="relative border-l border-gray-200">
+      <li class="mb-10 ml-4">
+          <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">September 2024 - February 2024</time>
+          <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Cloud Data Engineer</h3>
+            <ul class="lg:text-lg xl:text-xl">• Designed and deployed a transactional Data Lakehouse using Apache Iceberg with ACID compliance, implementing ETL pipelines for predictive maintenance.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Built scalable, cloud-native architecture on AWS, integrating MQTT for streaming data and Docker for containerized workflows.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Benchmarked Apache Hudi vs. Iceberg, optimizing data migration for scalability and implementing batch processing with Apache Spark.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Developed interactive dashboards in Grafana, improving real-time insights and system performance monitoring.</ul>
+            <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Data Lakehouse</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Apache Iceberg</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Apache Spark</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Docker</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Grafana dashboards</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">ETL pipelines</button> -->
+            </div>
+          </div>
+      </li>
+    </ol>    
+
+    <p class="font-semibold text-xl xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://nightbloom.ai/" target="_blank" rel="noopener noreferrer">BTS</a></p>
+    <ol class="relative border-l border-gray-200">
+      <li class="mb-10 ml-4">
+          <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">April 2024 - June 2024</time>
+          <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Machine Learning Engineer</h3>
+            <ul class="lg:text-lg xl:text-xl">• Developed an AI-driven knowledge retrieval system, transforming diverse internal documentation—including PDFs and PowerPoint presentations—into a structured, searchable format.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Developed an ETL pipeline to extract, clean, and normalize unstructured case data, ensuring seamless integration with an AI-powered search engine.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Automated knowledge discovery, enabling consultants to efficiently retrieve insights, accelerating research workflows and decision-making with GPT-4-driven responses.</ul>
+            <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Natural Language Processing (NLP)</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Large Language Models (LLMs)</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Embeddings</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Vector Database</button>
+              <!-- <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Redux.js</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Tailwind</button> -->
+            </div>
+          </div>
+      </li>
+    </ol>
+    
+    <p class="font-semibold text-xl xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://nightbloom.ai/" target="_blank" rel="noopener noreferrer">Certideal</a></p>
+    <ol class="relative border-l border-gray-200">
+      <li class="mb-10 ml-4">
+          <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">October 2023 - December 2023</time>
+          <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
+            <h3 class="text-lg font-semibold xl:text-xl mb-3">Data Scientist</h3>
+            <ul class="lg:text-lg xl:text-xl">• Conducted price sensitivity analysis using machine learning models to optimize pricing strategies for refurbished smartphones, enhancing revenue predictability.</ul>
+            <ul class="lg:text-lg xl:text-xl">• Developed a market cannibalization mitigation framework, leveraging data-driven insights to balance pricing across product categories and prevent revenue loss.</ul>
+            <div class="flex gap-x-2 flex-wrap gap-y-2 pb-2 mt-3 mb-1">
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Price Elasticity</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Feature Engineering</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Market Segmentation</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">A/B Testing</button>
+              <!-- <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Redux.js</button>
+              <button class="border px-4 lg:px-3 lg:py-2 rounded-lg transition-colors text-xs border-white hover:border-pink-700 hover:bg-pink-700">Tailwind</button> -->
+            </div>
+          </div>
+      </li>
+    </ol>
+
     <p class="font-semibold text-xl xl:text-2xl hover:text-pink-700 hover:cursor-pointer"><a href="https://nightbloom.ai/" target="_blank" rel="noopener noreferrer">NightBloom AI</a></p>
     <ol class="relative border-l border-gray-200">
       <li class="mb-10 ml-4">
