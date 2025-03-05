@@ -9,7 +9,7 @@
             Curiosity, Breakthroughs, and Limitless Ideas
           </p>
           <p class="pt-8 pb-4 md:pr-64 lg:pr-72 xl:pr-96 md:text-lg lg:text-lg md:pt-12 md:pb-10 xl:text-2xl 2xl:pt-22 2xl:pr-[550px] z-20">
-            I’m a problem-solver based in Spain, passionate about Data and Machine Learning. I am open to relocation and flexible with work hours, eager to contribute to innovative projects worldwide.
+            I’m a problem-solver based in Spain, driven by Data and Machine Learning. I am open to relocation and flexible with work hours, eager to contribute to innovative projects worldwide 🛸
           </p>
           <a href="/#about">
             <button class="bg-pink-500 px-6 py-2 md:text-lg lg:text-lg hover:bg-pink-700 transition-all md:px-8 md:py-3 xl:text-xl 2xl:text-2xl font-semibold">Discover More</button>
