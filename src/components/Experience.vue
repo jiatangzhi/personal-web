@@ -14,7 +14,7 @@
     <ol class="relative border-l border-gray-200">
       <li class="mb-10 ml-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white"></div>
-          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">September 2024 - February 2024</time>
+          <time class="text-sm font-normal leading-none text-stone-200 xl:text-lg">September 2024 - February 2025</time>
           <div class="bg-black bg-opacity-20 rounded-lg p-4 xl:text-lg mt-2 z-20">
             <h3 class="text-lg font-semibold xl:text-xl mb-3">Cloud Data Engineer</h3>
             <ul class="lg:text-lg xl:text-xl">• Designed and deployed a transactional Data Lakehouse using Apache Iceberg with ACID compliance, implementing ETL pipelines for predictive maintenance.</ul>
