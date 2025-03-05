@@ -9,7 +9,7 @@
     <div class="pt-8 text-purple-500 md:w-2/3 md:text-lg lg:text-lg xl:text-2xl bg-white pb-24">
       <p class="text-white hidden lg:block lg:text-purple-500 font-bold lg:text-4xl lg:pb-8 xl:text-5xl 2xl:text-6xl hover-rectangle hover:cursor-pointer overflow-x-hidden">About</p>
       <p>Hi! I’m Jia, a Data Engineer and AI Enthusiast passionate about building scalable, data-driven solutions. My journey started in web development, where I spent 2+ years mastering React and front-end technologies, but my curiosity led me deeper into Big Data and Machine Learning.</p>
-      <p class="py-4 ">Currently, I design and optimize data pipelines, develop AI-powered retrieval systems, and architect lakehouse solutions, refining my expertise in cloud-native architectures and large-scale data processing.</p>
+      <p class="py-4 ">Currently, I design and optimize data pipelines, develop AI-powered systems, and architect lakehouse solutions, refining my expertise in cloud-native architectures and large-scale data processing.</p>
       <p>When I’m not working with data, you’ll probably find me indulging in my love for cooking, hitting the gym, or exploring new music—always seeking creativity both in and out of code.</p>
       <br></br>
       <p>Let’s connect and chat about all things 🫶🏻 Data, AI, or even good food recommendations!</p>   
